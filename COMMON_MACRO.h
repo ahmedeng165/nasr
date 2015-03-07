@@ -13,6 +13,6 @@
 
 #define BIT_IS_SET(REG,BIT_NUM) ( REG & (1<<BIT_NUM) ) //check if any bit is set in any register and return true if yes 
 
-#define BIT_IS_CLEAR(REG,BIT_NUM) ( !(REG & (1<<BIT_NUM)) ) //check if any bit is clear in any register and return true if yes 
+//#define BIT_IS_CLEAR(REG,BIT_NUM) ( !(REG & (1<<BIT_NUM)) ) //check if any bit is clear in any register and return true if yes 
 SDSADASDAS ASFASFA SDVASVFS DSASS
 #endif /* COMMON_MACR]O_H_ */
